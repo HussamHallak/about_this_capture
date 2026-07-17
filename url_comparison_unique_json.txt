@@ -1,0 +1,9 @@
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/component~main~5db14389.23b8a4c9.chunk.js
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/component~main~6e6dca10.e619a9e1.chunk.js
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/component~main~748942c6.8aa711e6.chunk.js
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/component~main~b07b7304.01d5f205.chunk.js
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/graphql-core~7dbd8cdd.6500d372.chunk.js
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/main.28301129.js
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/vendor~main~7dbd8cdd.670b0c65.chunk.js
+https://web.archive.org/web/20260207013744js_/https://www.aljazeera.net/static/js/vendor~main~e5e84d97.85379177.chunk.js
+https://web.archive.org/web/20260207013744if_/https://www.googletagmanager.com/ns.html?id=GTM-N6778BQ

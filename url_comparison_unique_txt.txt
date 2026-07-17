@@ -1,0 +1,4 @@
+https://static.chartbeat.com/js/chartbeat.js
+https://static.chartbeat.com/js/chartbeat_mab.js
+https://www.googletagmanager.com/gtag/js?id=G-WFKEPR3HG4
+https://www.googletagmanager.com/gtm.js?id=GTM-N6778BQ
